@@ -2,6 +2,9 @@
 
 Basicamente isso... 
 O cerne ainda é pegar 2 valores e dividir em partes equivalentes ao salario de cada pessoa.
+
 Preciso add graficos
+
 limpar com funções 
+
 op de gastos tabeladas com dicionarios 
